@@ -1,0 +1,20 @@
+/* styles.css */
+
+.card-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.custom-card {
+    width: 18rem;
+}
+
+.custom-card .card-title {
+    color: #fff;
+}
+
+.custom-card .card-text {
+    color: #fff;
+}
